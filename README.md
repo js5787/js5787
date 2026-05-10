@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jongsuk Lee 👋
+ 
+> *Started in industrial design. Ended up building the web.*
+ 
+---
+ 
+## 🧑‍💻 About Me
+ 
+Frontend developer with a soft spot for **design and interaction**.  
+I enjoy thinking about the small details that make UI feel natural —  
+transitions, feedback, spacing, the stuff that's easy to skip but hard to ignore once it's missing.
 
-<!--
-**js5787/js5787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ 
+## 🏃 Outside of Code
+ 
+Lifting weights · Climbing walls · Singing · Shooting pool · Rolling strikes
